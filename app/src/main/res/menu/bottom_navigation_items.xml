@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/beranda"
+        android:icon="@drawable/ic_home"
+        android:title="Beranda"/>
+    <item
+        android:id="@+id/pesan"
+        android:icon="@drawable/ic_pesan"
+        android:title="Pesan"/>
+    <item
+        android:id="@+id/presensi"
+        android:icon="@drawable/ic_presensi"
+        android:title="Presensi"/>
+</menu>

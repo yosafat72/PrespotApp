@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "708625760180",
+    "firebase_url": "https://prespotapp.firebaseio.com",
+    "project_id": "prespotapp",
+    "storage_bucket": "prespotapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708625760180:android:65107575d50062a9",
+        "android_client_info": {
+          "package_name": "com.example.icode.prespotapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708625760180-a7jck8ushrgbb57qlo724tit751pfs1l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.icode.prespotapp",
+            "certificate_hash": "417b71028bb4cfacac251b1a364930a5c9c6a3cf"
+          }
+        },
+        {
+          "client_id": "708625760180-jv4j8humi6p27ev3htpsea18t2jc7ad2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgdSdJBP4pMnZuxU9vxE03Arx0fxwoNSo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708625760180-jv4j8humi6p27ev3htpsea18t2jc7ad2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

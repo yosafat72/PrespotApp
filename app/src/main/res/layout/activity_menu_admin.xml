@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MenuAdmin"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/logo"
+        android:layout_marginTop="15dp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnKaryawan"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:layout_margin="25dp"
+        android:background="@drawable/bg_button_blue"
+        android:text="DATA KARYAWAN"
+        android:drawableLeft="@drawable/ic_karyawan_white"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnPresensi"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:layout_margin="25dp"
+        android:background="@drawable/bg_button_blue"
+        android:text="DATA PRESENSI"
+        android:drawableLeft="@drawable/ic_presensi_white"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnPesan"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:layout_margin="25dp"
+        android:background="@drawable/bg_button_blue"
+        android:text="PESAN"
+        android:drawableLeft="@drawable/ic_pesan_white"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnLogout"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:layout_margin="25dp"
+        android:background="@drawable/bg_button_blue"
+        android:text="Logout"
+        android:drawableLeft="@drawable/ic_logout_white"/>
+
+</LinearLayout>
